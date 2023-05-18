@@ -141,7 +141,7 @@ input:focus {
 @media (max-width: 768px) {
   .app {
     flex-direction: column;
-    background-color: #ffee03;
+    background-color: #FFC433;
   }
 
   .side-bar {
